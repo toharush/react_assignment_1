@@ -1,18 +1,18 @@
 [
     {
-        "store_name": "שאדא",
-        "name": "test",
+        "store_name": "תנובה",
+        "name": "חלב 3%",
         "image_path": "https://www.tnuva.co.il/uploads/f_606ee43fa87cf_1617880127.jpg",
         "price": 11,
-        "description": "חלב",
+        "description": "חלב ממחלבות תנובה",
         "new_image_path": "https://www.tnuva.co.il/uploads/f_606ee43fa87cf_1617880127.jpg"
     },
     {
-        "store_name": "יוגבי",
-        "name": "חלב",
+        "store_name": "יטבתה",
+        "name": "חלב 5%",
         "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc3V0ctX92xddSPWiCphPK1kbtwCsnh-9Ew&usqp=CAU",
         "price": 5,
-        "description": "חלב",
+        "description": "חלב ממחלבות יטבתה",
         "new_image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc3V0ctX92xddSPWiCphPK1kbtwCsnh-9Ew&usqp=CAU"
     }
 ]
