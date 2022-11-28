@@ -1,18 +1,18 @@
 [
     {
-        "store_name": "תנובה",
-        "name": "חלב 3%",
+        "name": "שם מוצר - חלב 3%",
+        "price": "מחיר - 11" ,
         "image_path": "https://www.tnuva.co.il/uploads/f_606ee43fa87cf_1617880127.jpg",
-        "price": 11,
-        "description": "חלב ממחלבות תנובה",
+        "store_name": "חנות - תנובה",
+        "description": "תיאור - חלב 3% עשיר בסידן היישר מהרפת",
         "new_image_path": "https://www.tnuva.co.il/uploads/f_606ee43fa87cf_1617880127.jpg"
     },
     {
-        "store_name": "יטבתה",
-        "name": "חלב 5%",
+        "name": "שם מוצר - חלב 5%",
+        "price": "מחיר - 5" ,
         "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc3V0ctX92xddSPWiCphPK1kbtwCsnh-9Ew&usqp=CAU",
-        "price": 5,
-        "description": "חלב ממחלבות יטבתה",
+        "store_name": "חנות - יטבתה",
+        "description": "תיאור - חלב 5% ממחלבות יטבתה, זמין קיים בתור חלס סויה",
         "new_image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc3V0ctX92xddSPWiCphPK1kbtwCsnh-9Ew&usqp=CAU"
     }
 ]
